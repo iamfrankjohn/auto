@@ -1,4 +1,4 @@
-iamfrankjohn's | Auto Clicker & Macro
+**iamfrankjohn's | Auto Clicker & Macro**
 
 iamfrankjohn's | Auto Clicker & Macro is a powerful, yet easy-to-use, application that records your keyboard and mouse actions to automate repetitive tasks. This guide will help you get started with the app's core features.
 
