@@ -11,7 +11,7 @@ Loop Playback: Repeat your macro automatically for a set number of times or inde
 
 Save & Load Macros: Save your recorded actions to a file for later use.
 
-How to Use
+**How to Use**
 1. The Interface
 The main window of AutoMacro has a simple set of controls:
 
@@ -55,7 +55,7 @@ To Save: After you stop recording, a "Save As" dialog will appear automatically.
 
 To Load: Click the File icon and select a previously saved .mcr file. The macro will be loaded and ready for playback. The filename will be displayed on the app's interface.
 
-Troubleshooting
+**Troubleshooting**
 My macro isn't working in my game!
 Some applications, especially games with anti-cheat software, can block or ignore automated input. While AutoMacro uses advanced methods to simulate human-like input, there is no guarantee it will work in every application.
 
