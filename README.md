@@ -22,6 +22,7 @@ Play Button (F7): Click this to start playing back your recorded macro.
 Stop Button (F8): Click this to immediately stop an active recording or playback.
 
 File Icon: Click this to open a previously saved macro file.
+<img width="382" height="153" alt="image" src="https://github.com/user-attachments/assets/271c464f-5de7-4843-8e51-5b010759943a" />
 
 Loop Textbox: Enter the number of seconds to wait between macro loops.
 
